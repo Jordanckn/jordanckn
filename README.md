@@ -62,7 +62,7 @@ Discutons **blockchain**, **innovation** ou **café**. Parfois les trois simulta
 
 <div align="center">
   
-[GitHub](https://github.com/username) • [LinkedIn](https://linkedin.com/in/username) • [Twitter](https://twitter.com/username)
+[GitHub](https://github.com/Jordanckn/jordanckn) • [LinkedIn](https://fr.linkedin.com/in/chekroun-jordan-011aa1176/en) • [Twitter]([https://twitter.com/username](https://x.com/JCrypto83280))
 
 </div>
 
