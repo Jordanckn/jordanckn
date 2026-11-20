@@ -66,6 +66,13 @@
   <text class="t d" x="740" y="230">Ad platforms</text>
   <text class="t d" x="740" y="252">Reports</text>
 
+  <circle cx="158" cy="126" r="5" fill="#64748b"/>
+  <circle cx="358" cy="126" r="5" fill="#7c3aed"/>
+  <circle cx="658" cy="122" r="5" fill="#2563eb"/>
+  <circle cx="658" cy="197" r="5" fill="#7c3aed"/>
+  <circle cx="658" cy="272" r="5" fill="#ea580c"/>
+  <circle cx="898" cy="126" r="5" fill="#0d9488"/>
+
   <!-- flow arrows -->
   <line class="a flow" x1="182" y1="205" x2="218" y2="205" marker-end="url(#ar)"/>
   <line class="a flow" x1="382" y1="205" x2="418" y2="205" marker-end="url(#ar)"/>

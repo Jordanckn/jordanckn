@@ -86,60 +86,60 @@ Listed as an **Activateur France Num**, the French government network for the di
 **AI models and agents**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Claude_Mythos-0d0d0d?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Mythos">
-  <img src="https://img.shields.io/badge/ChatGPT-0d0d0d?style=for-the-badge" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Codex-0d0d0d?style=for-the-badge" alt="Codex">
-  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge" alt="Grok">
-  <img src="https://img.shields.io/badge/Hermes-0d0d0d?style=for-the-badge" alt="Hermes">
-  <img src="https://img.shields.io/badge/OpenClaw-0d0d0d?style=for-the-badge" alt="OpenClaw">
-  <img src="https://img.shields.io/badge/Manus-0d0d0d?style=for-the-badge" alt="Manus">
-  <img src="https://img.shields.io/badge/Meta_AI-0d0d0d?style=for-the-badge&logo=metaai&logoColor=white" alt="Meta AI">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Claude_Mythos-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Mythos">
+  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" alt="Codex">
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" alt="Grok">
+  <img src="https://img.shields.io/badge/Hermes-475569?style=for-the-badge" alt="Hermes">
+  <img src="https://img.shields.io/badge/OpenClaw-475569?style=for-the-badge" alt="OpenClaw">
+  <img src="https://img.shields.io/badge/Manus-111111?style=for-the-badge" alt="Manus">
+  <img src="https://img.shields.io/badge/Meta_AI-0467DF?style=for-the-badge&logo=metaai&logoColor=white" alt="Meta AI">
 </p>
 
 **AI engines I optimize for (GEO)**
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-0d0d0d?style=for-the-badge" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Gemini-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Perplexity-0d0d0d?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity">
-  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge" alt="Grok">
-  <img src="https://img.shields.io/badge/DeepSeek-0d0d0d?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity">
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge" alt="Grok">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
 </p>
 
 **Voice, automation and data**
 
 <p>
-  <img src="https://img.shields.io/badge/ElevenLabs-0d0d0d?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
-  <img src="https://img.shields.io/badge/n8n-0d0d0d?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/MCP-0d0d0d?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
-  <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/ElevenLabs-111111?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
 **Ads, analytics and SEO**
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Ads-0d0d0d?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
-  <img src="https://img.shields.io/badge/Meta_Ads-0d0d0d?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads">
-  <img src="https://img.shields.io/badge/ChatGPT_Ads-0d0d0d?style=for-the-badge" alt="ChatGPT Ads">
-  <img src="https://img.shields.io/badge/Google_Analytics-0d0d0d?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
-  <img src="https://img.shields.io/badge/Search_Console-0d0d0d?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console">
-  <img src="https://img.shields.io/badge/Tag_Manager-0d0d0d?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Tag Manager">
-  <img src="https://img.shields.io/badge/Microsoft_Clarity-0d0d0d?style=for-the-badge" alt="Microsoft Clarity">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
+  <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads">
+  <img src="https://img.shields.io/badge/ChatGPT_Ads-111111?style=for-the-badge" alt="ChatGPT Ads">
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
+  <img src="https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console">
+  <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Tag Manager">
+  <img src="https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge" alt="Microsoft Clarity">
 </p>
 
 **Web and infrastructure**
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-0d0d0d?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Nx-0d0d0d?style=for-the-badge&logo=nx&logoColor=white" alt="Nx">
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/OVH-0d0d0d?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 <br>

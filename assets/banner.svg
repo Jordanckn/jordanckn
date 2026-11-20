@@ -8,20 +8,21 @@
     @keyframes dot { 0%,100% { transform: scale(1); } 50% { transform: scale(1.5); } }
     @media (prefers-reduced-motion: reduce) { .ring, .dot { animation: none; } }
   </style>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="0.55" stop-color="#7c3aed"/><stop offset="1" stop-color="#0d9488"/></linearGradient></defs>
   <rect x="0.5" y="0.5" width="959" height="239" rx="20" fill="#ffffff" stroke="#e5e5e5"/>
 
-  <g fill="none" stroke="#e5e5e5" stroke-width="1.5">
-    <circle class="ring" style="animation-delay:0.8s" cx="800" cy="120" r="90"/>
-    <circle class="ring" style="animation-delay:0.4s" cx="800" cy="120" r="60"/>
-    <circle class="ring" cx="800" cy="120" r="30"/>
+  <g fill="none" stroke-width="1.5">
+    <circle class="ring" style="animation-delay:0.8s" cx="800" cy="120" r="90" stroke="#bfdbfe"/>
+    <circle class="ring" style="animation-delay:0.4s" cx="800" cy="120" r="60" stroke="#ddd6fe"/>
+    <circle class="ring" cx="800" cy="120" r="30" stroke="#99f6e4"/>
   </g>
-  <circle class="dot" cx="800" cy="120" r="8" fill="#2563eb"/>
+  <circle class="dot" cx="800" cy="120" r="8" fill="url(#g)"/>
   <line x1="710" y1="120" x2="890" y2="120" stroke="#e5e5e5" stroke-width="1.5"/>
   <line x1="800" y1="30" x2="800" y2="210" stroke="#e5e5e5" stroke-width="1.5"/>
 
   <text class="t" x="48" y="60" font-size="13" letter-spacing="2" fill="#6e6e80">WEBFITYOU</text>
   <text class="t" x="48" y="112" font-size="44" font-weight="600" fill="#0d0d0d" letter-spacing="-1">Jordan Chekroun</text>
   <text class="t" x="48" y="146" font-size="18" fill="#0d0d0d">Founder &amp; CEO</text>
-  <text class="t" x="48" y="178" font-size="16" fill="#2563eb">Visible on Google. Recommended by AI.</text>
+  <text class="t" x="48" y="178" font-size="16" fill="url(#g)">Visible on Google. Recommended by AI.</text>
   <text class="t" x="48" y="208" font-size="14" fill="#6e6e80">Paris  ·  Tel Aviv</text>
 </svg>
