@@ -82,6 +82,7 @@ Listed as an **Activateur France Num**, the French government network for the di
 ![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-0d0d0d?style=flat-square&logo=n8n&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-0d0d0d?style=flat-square&logo=googleads&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Ads-0d0d0d?style=flat-square&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-0d0d0d?style=flat-square&logo=anthropic&logoColor=white)
