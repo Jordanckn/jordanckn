@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" width="960" height="430" role="img" aria-label="How a WebFitYou project runs: brief, build, distribute through organic, social and paid channels, then measure and iterate, on top of an automation layer">
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .h { font-size: 16px; font-weight: 600; fill: #0d0d0d; }
+    .d { font-size: 13px; fill: #6e6e80; }
+    .b { fill: #f7f7f8; stroke: #e5e5e5; }
+    .a { stroke: #0d0d0d; stroke-width: 1.5; fill: none; }
+  </style>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M1 1 L9 5 L1 9" fill="none" stroke="#0d0d0d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1 L9 5 L1 9" fill="none" stroke="#10a37f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="959" height="429" rx="20" fill="#ffffff" stroke="#e5e5e5"/>
+  <text class="t" x="40" y="42" font-size="13" letter-spacing="2" fill="#6e6e80">HOW A PROJECT RUNS</text>
+
+  <!-- iterate loop -->
+  <path d="M820 100 V74 H300 V96" fill="none" stroke="#10a37f" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#ag)"/>
+  <text class="t" x="560" y="66" font-size="12" fill="#10a37f" text-anchor="middle" letter-spacing="1">ITERATE</text>
+
+  <!-- 1 Brief -->
+  <rect class="b" x="40" y="100" width="140" height="210" rx="14"/>
+  <text class="t h" x="60" y="136">Brief</text>
+  <text class="t d" x="60" y="164">Goals</text>
+  <text class="t d" x="60" y="186">Audience</text>
+  <text class="t d" x="60" y="208">Offer</text>
+  <text class="t d" x="60" y="230">Budget</text>
+
+  <!-- 2 Build -->
+  <rect class="b" x="220" y="100" width="160" height="210" rx="14"/>
+  <text class="t h" x="240" y="136">Build</text>
+  <text class="t d" x="240" y="164">Website</text>
+  <text class="t d" x="240" y="186">Angular · Nx</text>
+  <text class="t d" x="240" y="208">Netlify</text>
+  <text class="t d" x="240" y="230">Content system</text>
+
+  <!-- 3 Distribute -->
+  <rect class="b" x="420" y="100" width="260" height="60" rx="12"/>
+  <text class="t h" x="440" y="126">Organic</text>
+  <text class="t d" x="440" y="146">SEO · GEO</text>
+
+  <rect class="b" x="420" y="175" width="260" height="60" rx="12"/>
+  <text class="t h" x="440" y="201">Social</text>
+  <text class="t d" x="440" y="221">LinkedIn · Instagram · Facebook</text>
+
+  <rect class="b" x="420" y="250" width="260" height="60" rx="12"/>
+  <text class="t h" x="440" y="276">Paid</text>
+  <text class="t d" x="440" y="296">Google Ads · Meta Ads · ChatGPT Ads</text>
+
+  <!-- 4 Measure -->
+  <rect class="b" x="720" y="100" width="200" height="210" rx="14"/>
+  <text class="t h" x="740" y="136">Measure</text>
+  <text class="t d" x="740" y="164">Search Console</text>
+  <text class="t d" x="740" y="186">Analytics</text>
+  <text class="t d" x="740" y="208">Ad platforms</text>
+  <text class="t d" x="740" y="230">Reports</text>
+
+  <!-- flow arrows -->
+  <line class="a" x1="182" y1="205" x2="218" y2="205" marker-end="url(#ar)"/>
+  <line class="a" x1="382" y1="205" x2="418" y2="205" marker-end="url(#ar)"/>
+  <line class="a" x1="682" y1="205" x2="718" y2="205" marker-end="url(#ar)"/>
+
+  <!-- automation layer -->
+  <rect x="40" y="340" width="880" height="56" rx="14" fill="#0d0d0d"/>
+  <circle cx="68" cy="368" r="5" fill="#10a37f"/>
+  <text class="t" x="86" y="373" font-size="15" font-weight="600" fill="#ffffff">Automation layer</text>
+  <text class="t" x="260" y="373" font-size="14" fill="#c5c5d2">n8n  ·  Claude API  ·  OpenAI API  ·  Supabase</text>
+</svg>

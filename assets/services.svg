@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 410" width="960" height="410" role="img" aria-label="The twelve WebFitYou services">
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .h { font-size: 16px; font-weight: 600; fill: #0d0d0d; }
+    .d { font-size: 13px; fill: #6e6e80; }
+    .n { font-size: 11px; fill: #10a37f; letter-spacing: 1px; }
+    .c { fill: #f7f7f8; stroke: #e5e5e5; }
+  </style>
+  <rect x="0.5" y="0.5" width="959" height="409" rx="20" fill="#ffffff" stroke="#e5e5e5"/>
+  <text class="t" x="40" y="46" font-size="13" letter-spacing="2" fill="#6e6e80">WHAT WE RUN</text>
+
+  <!-- row 1 -->
+  <rect class="c" x="40"  y="70" width="205" height="90" rx="14"/>
+  <text class="t n" x="60" y="94">01</text><text class="t h" x="60" y="118">SEO</text><text class="t d" x="60" y="140">Google rankings</text>
+  <rect class="c" x="265" y="70" width="205" height="90" rx="14"/>
+  <text class="t n" x="285" y="94">02</text><text class="t h" x="285" y="118">GEO</text><text class="t d" x="285" y="140">AI answer engines</text>
+  <rect class="c" x="490" y="70" width="205" height="90" rx="14"/>
+  <text class="t n" x="510" y="94">03</text><text class="t h" x="510" y="118">Google Ads</text><text class="t d" x="510" y="140">Search campaigns</text>
+  <rect class="c" x="715" y="70" width="205" height="90" rx="14"/>
+  <text class="t n" x="735" y="94">04</text><text class="t h" x="735" y="118">Meta Ads</text><text class="t d" x="735" y="140">Facebook · Instagram</text>
+
+  <!-- row 2 -->
+  <rect class="c" x="40"  y="176" width="205" height="90" rx="14"/>
+  <text class="t n" x="60" y="200">05</text><text class="t h" x="60" y="224">ChatGPT Ads</text><text class="t d" x="60" y="246">OpenAI Ads Manager</text>
+  <rect class="c" x="265" y="176" width="205" height="90" rx="14"/>
+  <text class="t n" x="285" y="200">06</text><text class="t h" x="285" y="224">Social media</text><text class="t d" x="285" y="246">Strategy and publishing</text>
+  <rect class="c" x="490" y="176" width="205" height="90" rx="14"/>
+  <text class="t n" x="510" y="200">07</text><text class="t h" x="510" y="224">Websites</text><text class="t d" x="510" y="246">Design and build</text>
+  <rect class="c" x="715" y="176" width="205" height="90" rx="14"/>
+  <text class="t n" x="735" y="200">08</text><text class="t h" x="735" y="224">Visual identity</text><text class="t d" x="735" y="246">Logo and brand system</text>
+
+  <!-- row 3 -->
+  <rect class="c" x="40"  y="282" width="205" height="90" rx="14"/>
+  <text class="t n" x="60" y="306">09</text><text class="t h" x="60" y="330">AI agents</text><text class="t d" x="60" y="352">n8n · MCP · workflows</text>
+  <rect class="c" x="265" y="282" width="205" height="90" rx="14"/>
+  <text class="t n" x="285" y="306">10</text><text class="t h" x="285" y="330">CRM and leads</text><text class="t d" x="285" y="352">Custom CRM · qualification</text>
+  <rect class="c" x="490" y="282" width="205" height="90" rx="14"/>
+  <text class="t n" x="510" y="306">11</text><text class="t h" x="510" y="330">AI training</text><text class="t d" x="510" y="352">For professionals and teams</text>
+  <rect class="c" x="715" y="282" width="205" height="90" rx="14"/>
+  <text class="t n" x="735" y="306">12</text><text class="t h" x="735" y="330">Digital audit</text><text class="t d" x="735" y="352">Roadmap and priorities</text>
+</svg>
