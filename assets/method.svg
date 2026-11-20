@@ -4,17 +4,21 @@
     .h { font-size: 16px; font-weight: 600; fill: #0d0d0d; text-anchor: middle; }
     .d { font-size: 13px; fill: #6e6e80; text-anchor: middle; }
     .k { font-size: 14px; font-weight: 600; fill: #ffffff; text-anchor: middle; }
+  
+    .step { animation: step 6s ease-in-out infinite; }
+    @keyframes step { 0%,100% { fill: #0d0d0d; } 4%,16% { fill: #2563eb; } 22% { fill: #0d0d0d; } }
+    @media (prefers-reduced-motion: reduce) { .step { animation: none; } }
   </style>
   <rect x="0.5" y="0.5" width="959" height="219" rx="20" fill="#ffffff" stroke="#e5e5e5"/>
   <text class="t" x="40" y="46" font-size="13" letter-spacing="2" fill="#6e6e80">THE METHOD</text>
 
   <line x1="112" y1="98" x2="848" y2="98" stroke="#e5e5e5" stroke-width="2"/>
 
-  <circle cx="112" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="112" y="103">1</text>
-  <circle cx="296" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="296" y="103">2</text>
-  <circle cx="480" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="480" y="103">3</text>
-  <circle cx="664" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="664" y="103">4</text>
-  <circle cx="848" cy="98" r="18" fill="#2563eb"/><text class="t k" x="848" y="103">5</text>
+  <circle class="step" style="animation-delay:0.0s" cx="112" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="112" y="103">1</text>
+  <circle class="step" style="animation-delay:1.0s" cx="296" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="296" y="103">2</text>
+  <circle class="step" style="animation-delay:2.0s" cx="480" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="480" y="103">3</text>
+  <circle class="step" style="animation-delay:3.0s" cx="664" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="664" y="103">4</text>
+  <circle class="step" style="animation-delay:4.0s" cx="848" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="848" y="103">5</text>
 
   <text class="t h" x="112" y="144">Frame</text><text class="t d" x="112" y="166">Goals and audit</text>
   <text class="t h" x="296" y="144">Design</text><text class="t d" x="296" y="166">Site and content</text>

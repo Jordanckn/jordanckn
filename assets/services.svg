@@ -5,37 +5,93 @@
     .d { font-size: 13px; fill: #6e6e80; }
     .n { font-size: 11px; fill: #2563eb; letter-spacing: 1px; }
     .c { fill: #f7f7f8; stroke: #e5e5e5; }
+    .card { animation: fade 0.7s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .card { animation: none; } }
   </style>
+  <defs>
+    <symbol id="i-seo" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6"/><line x1="14.5" y1="14.5" x2="20" y2="20"/></symbol>
+    <symbol id="i-geo" viewBox="0 0 24 24"><path d="M12 3 L13.8 9 L20 12 L13.8 15 L12 21 L10.2 15 L4 12 L10.2 9 Z"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.8"/></symbol>
+    <symbol id="i-mega" viewBox="0 0 24 24"><path d="M4 10 V14 H7 L14 18 V6 L7 10 Z"/><path d="M17.5 9.5 a4 4 0 0 1 0 5"/></symbol>
+    <symbol id="i-chat" viewBox="0 0 24 24"><path d="M4 5 H20 V15 H11 L7 19 V15 H4 Z"/></symbol>
+    <symbol id="i-share" viewBox="0 0 24 24"><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="6" r="2.5"/><circle cx="18" cy="18" r="2.5"/><line x1="8.2" y1="10.8" x2="15.8" y2="7.2"/><line x1="8.2" y1="13.2" x2="15.8" y2="16.8"/></symbol>
+    <symbol id="i-web" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><circle cx="6" cy="7" r="0.5"/><circle cx="8.5" cy="7" r="0.5"/></symbol>
+    <symbol id="i-pen" viewBox="0 0 24 24"><path d="M4 20 L5 16 L16 5 L19 8 L8 19 Z"/><line x1="14" y1="7" x2="17" y2="10"/></symbol>
+    <symbol id="i-bot" viewBox="0 0 24 24"><rect x="5" y="8" width="14" height="10" rx="3"/><line x1="12" y1="8" x2="12" y2="5"/><circle cx="12" cy="4" r="1"/><circle cx="9.5" cy="13" r="1"/><circle cx="14.5" cy="13" r="1"/></symbol>
+    <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="9" r="3"/><path d="M3 19 a6 6 0 0 1 12 0"/><circle cx="17" cy="8" r="2.5"/><path d="M16 14 a5 5 0 0 1 5 5"/></symbol>
+    <symbol id="i-cap" viewBox="0 0 24 24"><path d="M2 9 L12 4 L22 9 L12 14 Z"/><path d="M6 11.5 V15.5 C9 17.5 15 17.5 18 15.5 V11.5"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><rect x="5" y="4" width="14" height="16" rx="2"/><path d="M8 10 L9.5 11.5 L12 9"/><line x1="8" y1="16" x2="16" y2="16"/></symbol>
+  </defs>
+
   <rect x="0.5" y="0.5" width="959" height="409" rx="20" fill="#ffffff" stroke="#e5e5e5"/>
   <text class="t" x="40" y="46" font-size="13" letter-spacing="2" fill="#6e6e80">WHAT WE RUN</text>
 
-  <!-- row 1 -->
-  <rect class="c" x="40"  y="70" width="205" height="90" rx="14"/>
-  <text class="t n" x="60" y="94">01</text><text class="t h" x="60" y="118">SEO</text><text class="t d" x="60" y="140">Google rankings</text>
-  <rect class="c" x="265" y="70" width="205" height="90" rx="14"/>
-  <text class="t n" x="285" y="94">02</text><text class="t h" x="285" y="118">GEO</text><text class="t d" x="285" y="140">AI answer engines</text>
-  <rect class="c" x="490" y="70" width="205" height="90" rx="14"/>
-  <text class="t n" x="510" y="94">03</text><text class="t h" x="510" y="118">Google Ads</text><text class="t d" x="510" y="140">Search campaigns</text>
-  <rect class="c" x="715" y="70" width="205" height="90" rx="14"/>
-  <text class="t n" x="735" y="94">04</text><text class="t h" x="735" y="118">Meta Ads</text><text class="t d" x="735" y="140">Facebook · Instagram</text>
+  <g fill="none" stroke="#2563eb" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- row 1 -->
+    <g class="card" style="animation-delay:0.05s">
+      <rect class="c" x="40" y="70" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-seo" x="203" y="84" width="24" height="24"/>
+      <text class="t n" x="60" y="94" stroke="none" fill="#2563eb">01</text><text class="t h" x="60" y="118" stroke="none">SEO</text><text class="t d" x="60" y="140" stroke="none">Google rankings</text>
+    </g>
+    <g class="card" style="animation-delay:0.10s">
+      <rect x="265" y="70" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-geo" x="428" y="84" width="24" height="24"/>
+      <text class="t n" x="285" y="94" stroke="none" fill="#2563eb">02</text><text class="t h" x="285" y="118" stroke="none">GEO</text><text class="t d" x="285" y="140" stroke="none">AI answer engines</text>
+    </g>
+    <g class="card" style="animation-delay:0.15s">
+      <rect x="490" y="70" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-target" x="653" y="84" width="24" height="24"/>
+      <text class="t n" x="510" y="94" stroke="none" fill="#2563eb">03</text><text class="t h" x="510" y="118" stroke="none">Google Ads</text><text class="t d" x="510" y="140" stroke="none">Search campaigns</text>
+    </g>
+    <g class="card" style="animation-delay:0.20s">
+      <rect x="715" y="70" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-mega" x="878" y="84" width="24" height="24"/>
+      <text class="t n" x="735" y="94" stroke="none" fill="#2563eb">04</text><text class="t h" x="735" y="118" stroke="none">Meta Ads</text><text class="t d" x="735" y="140" stroke="none">Facebook · Instagram</text>
+    </g>
 
-  <!-- row 2 -->
-  <rect class="c" x="40"  y="176" width="205" height="90" rx="14"/>
-  <text class="t n" x="60" y="200">05</text><text class="t h" x="60" y="224">ChatGPT Ads</text><text class="t d" x="60" y="246">OpenAI Ads Manager</text>
-  <rect class="c" x="265" y="176" width="205" height="90" rx="14"/>
-  <text class="t n" x="285" y="200">06</text><text class="t h" x="285" y="224">Social media</text><text class="t d" x="285" y="246">Strategy and publishing</text>
-  <rect class="c" x="490" y="176" width="205" height="90" rx="14"/>
-  <text class="t n" x="510" y="200">07</text><text class="t h" x="510" y="224">Websites</text><text class="t d" x="510" y="246">Design and build</text>
-  <rect class="c" x="715" y="176" width="205" height="90" rx="14"/>
-  <text class="t n" x="735" y="200">08</text><text class="t h" x="735" y="224">Visual identity</text><text class="t d" x="735" y="246">Logo and brand system</text>
+    <!-- row 2 -->
+    <g class="card" style="animation-delay:0.25s">
+      <rect x="40" y="176" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-chat" x="203" y="190" width="24" height="24"/>
+      <text class="t n" x="60" y="200" stroke="none" fill="#2563eb">05</text><text class="t h" x="60" y="224" stroke="none">ChatGPT Ads</text><text class="t d" x="60" y="246" stroke="none">OpenAI Ads Manager</text>
+    </g>
+    <g class="card" style="animation-delay:0.30s">
+      <rect x="265" y="176" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-share" x="428" y="190" width="24" height="24"/>
+      <text class="t n" x="285" y="200" stroke="none" fill="#2563eb">06</text><text class="t h" x="285" y="224" stroke="none">Social media</text><text class="t d" x="285" y="246" stroke="none">Strategy and publishing</text>
+    </g>
+    <g class="card" style="animation-delay:0.35s">
+      <rect x="490" y="176" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-web" x="653" y="190" width="24" height="24"/>
+      <text class="t n" x="510" y="200" stroke="none" fill="#2563eb">07</text><text class="t h" x="510" y="224" stroke="none">Websites</text><text class="t d" x="510" y="246" stroke="none">Design and build</text>
+    </g>
+    <g class="card" style="animation-delay:0.40s">
+      <rect x="715" y="176" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-pen" x="878" y="190" width="24" height="24"/>
+      <text class="t n" x="735" y="200" stroke="none" fill="#2563eb">08</text><text class="t h" x="735" y="224" stroke="none">Visual identity</text><text class="t d" x="735" y="246" stroke="none">Logo and brand system</text>
+    </g>
 
-  <!-- row 3 -->
-  <rect class="c" x="40"  y="282" width="205" height="90" rx="14"/>
-  <text class="t n" x="60" y="306">09</text><text class="t h" x="60" y="330">AI agents</text><text class="t d" x="60" y="352">Bots · voice · phone</text>
-  <rect class="c" x="265" y="282" width="205" height="90" rx="14"/>
-  <text class="t n" x="285" y="306">10</text><text class="t h" x="285" y="330">CRM and leads</text><text class="t d" x="285" y="352">Custom CRM · qualification</text>
-  <rect class="c" x="490" y="282" width="205" height="90" rx="14"/>
-  <text class="t n" x="510" y="306">11</text><text class="t h" x="510" y="330">AI training</text><text class="t d" x="510" y="352">For professionals and teams</text>
-  <rect class="c" x="715" y="282" width="205" height="90" rx="14"/>
-  <text class="t n" x="735" y="306">12</text><text class="t h" x="735" y="330">Digital audit</text><text class="t d" x="735" y="352">Roadmap and priorities</text>
+    <!-- row 3 -->
+    <g class="card" style="animation-delay:0.45s">
+      <rect x="40" y="282" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-bot" x="203" y="296" width="24" height="24"/>
+      <text class="t n" x="60" y="306" stroke="none" fill="#2563eb">09</text><text class="t h" x="60" y="330" stroke="none">AI agents</text><text class="t d" x="60" y="352" stroke="none">Bots · voice · phone</text>
+    </g>
+    <g class="card" style="animation-delay:0.50s">
+      <rect x="265" y="282" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-users" x="428" y="296" width="24" height="24"/>
+      <text class="t n" x="285" y="306" stroke="none" fill="#2563eb">10</text><text class="t h" x="285" y="330" stroke="none">CRM and leads</text><text class="t d" x="285" y="352" stroke="none">Custom CRM · qualification</text>
+    </g>
+    <g class="card" style="animation-delay:0.55s">
+      <rect x="490" y="282" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-cap" x="653" y="296" width="24" height="24"/>
+      <text class="t n" x="510" y="306" stroke="none" fill="#2563eb">11</text><text class="t h" x="510" y="330" stroke="none">AI training</text><text class="t d" x="510" y="352" stroke="none">For professionals and teams</text>
+    </g>
+    <g class="card" style="animation-delay:0.60s">
+      <rect x="715" y="282" width="205" height="90" rx="14" stroke="#e5e5e5" stroke-width="1" fill="#f7f7f8"/>
+      <use href="#i-check" x="878" y="296" width="24" height="24"/>
+      <text class="t n" x="735" y="306" stroke="none" fill="#2563eb">12</text><text class="t h" x="735" y="330" stroke="none">Digital audit</text><text class="t d" x="735" y="352" stroke="none">Roadmap and priorities</text>
+    </g>
+  </g>
 </svg>

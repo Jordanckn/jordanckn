@@ -5,6 +5,12 @@
     .d { font-size: 13px; fill: #6e6e80; }
     .b { fill: #f7f7f8; stroke: #e5e5e5; }
     .a { stroke: #0d0d0d; stroke-width: 1.5; fill: none; }
+  
+    .flow { stroke-dasharray: 6 6; animation: dash 1.2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -12; } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.5); opacity: .6; } }
+    @media (prefers-reduced-motion: reduce) { .flow, .pulse { animation: none; } }
   </style>
   <defs>
     <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
@@ -19,7 +25,7 @@
   <text class="t" x="40" y="42" font-size="13" letter-spacing="2" fill="#6e6e80">HOW A PROJECT RUNS</text>
 
   <!-- iterate loop -->
-  <path d="M820 100 V74 H300 V96" fill="none" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#ag)"/>
+  <path d="M820 100 V74 H300 V96" fill="none" stroke="#2563eb" stroke-width="1.5" class="flow" marker-end="url(#ag)"/>
   <text class="t" x="560" y="66" font-size="12" fill="#2563eb" text-anchor="middle" letter-spacing="1">ITERATE</text>
 
   <!-- 1 Brief -->
@@ -61,13 +67,13 @@
   <text class="t d" x="740" y="252">Reports</text>
 
   <!-- flow arrows -->
-  <line class="a" x1="182" y1="205" x2="218" y2="205" marker-end="url(#ar)"/>
-  <line class="a" x1="382" y1="205" x2="418" y2="205" marker-end="url(#ar)"/>
-  <line class="a" x1="682" y1="205" x2="718" y2="205" marker-end="url(#ar)"/>
+  <line class="a flow" x1="182" y1="205" x2="218" y2="205" marker-end="url(#ar)"/>
+  <line class="a flow" x1="382" y1="205" x2="418" y2="205" marker-end="url(#ar)"/>
+  <line class="a flow" x1="682" y1="205" x2="718" y2="205" marker-end="url(#ar)"/>
 
   <!-- automation layer -->
   <rect x="40" y="340" width="880" height="56" rx="14" fill="#0d0d0d"/>
-  <circle cx="68" cy="368" r="5" fill="#2563eb"/>
+  <circle class="pulse" cx="68" cy="368" r="5" fill="#2563eb"/>
   <text class="t" x="86" y="373" font-size="15" font-weight="600" fill="#ffffff">Automation layer</text>
   <text class="t" x="260" y="373" font-size="14" fill="#c5c5d2">n8n  ·  Claude API  ·  OpenAI API  ·  Supabase</text>
 </svg>

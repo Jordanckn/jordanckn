@@ -62,6 +62,15 @@ Generative Engine Optimization makes a brand understandable, citable and recomme
 
 <img src="assets/ai.svg" alt="Models such as Claude, Mythos, Hermes, OpenClaw and Grok power chat bots, ElevenLabs voice agents and phone-calling agents, connected to CRM and lead generation through an automation layer" width="100%">
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
+  <img src="https://img.shields.io/badge/ElevenLabs-0d0d0d?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/n8n-0d0d0d?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</p>
+
 Agents start from a goal, split the task, use company tools with limited rights, and a human validates before any sensitive action.
 
 - **Models and agents:** I set up and run Claude, Claude Mythos, Hermes, OpenClaw and Grok bots for business use
