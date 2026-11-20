@@ -29,9 +29,9 @@
   <text class="t d" x="62" y="160">Claude</text>
   <text class="t d" x="62" y="188">Claude Mythos</text>
   <text class="t d" x="62" y="216">Hermes</text>
-  <text class="t d" x="62" y="244">OpenClaw</text>
+  <text class="t d" x="62" y="244">OpenClaw · Manus</text>
   <text class="t d" x="62" y="272">Grok</text>
-  <text class="t d" x="62" y="300">Codex</text>
+  <text class="t d" x="62" y="300">ChatGPT · Codex</text>
 
   <!-- Agents -->
   <rect class="b" x="320" y="70" width="320" height="250" rx="14"/>

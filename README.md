@@ -62,15 +62,6 @@ Generative Engine Optimization makes a brand understandable, citable and recomme
 
 <img src="assets/ai.svg" alt="Models such as Claude, Mythos, Hermes, OpenClaw and Grok power chat bots, ElevenLabs voice agents and phone-calling agents, connected to CRM and lead generation through an automation layer" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge&logo=x&logoColor=white" alt="Grok">
-  <img src="https://img.shields.io/badge/ElevenLabs-0d0d0d?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
-  <img src="https://img.shields.io/badge/n8n-0d0d0d?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
-
 Agents start from a goal, split the task, use company tools with limited rights, and a human validates before any sensitive action.
 
 - **Models and agents:** I set up and run Claude, Claude Mythos, Hermes, OpenClaw and Grok bots for business use
@@ -90,26 +81,66 @@ Listed as an **Activateur France Num**, the French government network for the di
 
 <br>
 
-## Stack
+## Tools
 
-![Angular](https://img.shields.io/badge/Angular-0d0d0d?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-0d0d0d?style=flat-square&logo=nx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0d0d0d?style=flat-square&logo=n8n&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-0d0d0d?style=flat-square&logo=googleads&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Ads-0d0d0d?style=flat-square&logo=meta&logoColor=white)
-![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0d0d0d?style=flat-square&logo=microsoft&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-0d0d0d?style=flat-square&logo=anthropic&logoColor=white)
-![Mythos](https://img.shields.io/badge/Claude_Mythos-0d0d0d?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d0d0d?style=flat-square&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-0d0d0d?style=flat-square&logo=x&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-0d0d0d?style=flat-square)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-0d0d0d?style=flat-square)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0d0d0d?style=flat-square&logo=elevenlabs&logoColor=white)
+**AI models and agents**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Claude_Mythos-0d0d0d?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Mythos">
+  <img src="https://img.shields.io/badge/ChatGPT-0d0d0d?style=for-the-badge" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Codex-0d0d0d?style=for-the-badge" alt="Codex">
+  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge" alt="Grok">
+  <img src="https://img.shields.io/badge/Hermes-0d0d0d?style=for-the-badge" alt="Hermes">
+  <img src="https://img.shields.io/badge/OpenClaw-0d0d0d?style=for-the-badge" alt="OpenClaw">
+  <img src="https://img.shields.io/badge/Manus-0d0d0d?style=for-the-badge" alt="Manus">
+  <img src="https://img.shields.io/badge/Meta_AI-0d0d0d?style=for-the-badge&logo=metaai&logoColor=white" alt="Meta AI">
+</p>
+
+**AI engines I optimize for (GEO)**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-0d0d0d?style=for-the-badge" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Gemini-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Perplexity-0d0d0d?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity">
+  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge" alt="Grok">
+  <img src="https://img.shields.io/badge/DeepSeek-0d0d0d?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+</p>
+
+**Voice, automation and data**
+
+<p>
+  <img src="https://img.shields.io/badge/ElevenLabs-0d0d0d?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/n8n-0d0d0d?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/MCP-0d0d0d?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</p>
+
+**Ads, analytics and SEO**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Ads-0d0d0d?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
+  <img src="https://img.shields.io/badge/Meta_Ads-0d0d0d?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads">
+  <img src="https://img.shields.io/badge/ChatGPT_Ads-0d0d0d?style=for-the-badge" alt="ChatGPT Ads">
+  <img src="https://img.shields.io/badge/Google_Analytics-0d0d0d?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
+  <img src="https://img.shields.io/badge/Search_Console-0d0d0d?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console">
+  <img src="https://img.shields.io/badge/Tag_Manager-0d0d0d?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Tag Manager">
+  <img src="https://img.shields.io/badge/Microsoft_Clarity-0d0d0d?style=for-the-badge" alt="Microsoft Clarity">
+</p>
+
+**Web and infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-0d0d0d?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Nx-0d0d0d?style=for-the-badge&logo=nx&logoColor=white" alt="Nx">
+  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/OVH-0d0d0d?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 <br>
 
