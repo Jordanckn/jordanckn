@@ -14,6 +14,8 @@ Former lawyer, now building search visibility for businesses. I moved into SEO i
 
 WebFitYou brings the website, the content that search engines and AI understand, and the ad campaigns into one strategy, run by one team with one point of contact.
 
+**In one line:** I run search visibility (SEO, GEO), paid media (Google Ads, Meta Ads, ChatGPT Ads), social media and websites, and the AI layer behind them: agents and bots on Claude, Mythos, Hermes, OpenClaw and Grok, ElevenLabs voices, phone-calling agents, CRM and lead generation.
+
 ```typescript
 export const jordan = {
   company: "WebFitYou",
@@ -42,6 +44,8 @@ export const jordan = {
 
 <img src="assets/pipeline.svg" alt="Brief, build, distribute through organic, social and paid channels, measure, iterate, on top of an automation layer" width="100%">
 
+**Measurement:** Google Search Console, Google Analytics, Microsoft Clarity and the ad platforms, summed up in regular reports.
+
 <br>
 
 ## GEO: being recommended by AI
@@ -54,14 +58,18 @@ Generative Engine Optimization makes a brand understandable, citable and recomme
 
 <br>
 
-## AI agents and automation
+## AI agents, voice and CRM
+
+<img src="assets/ai.svg" alt="Models such as Claude, Mythos, Hermes, OpenClaw and Grok power chat bots, ElevenLabs voice agents and phone-calling agents, connected to CRM and lead generation through an automation layer" width="100%">
 
 Agents start from a goal, split the task, use company tools with limited rights, and a human validates before any sensitive action.
 
-- n8n workflows and API integrations
-- Custom MCP servers exposing CRM, calendar, catalog and billing to Claude or ChatGPT, with precise permissions
-- CRM connected to data, with agents that qualify prospects and prepare follow-up
-- AI training for professionals, by appointment, with confidentiality built in
+- **Models and agents:** I set up and run Claude, Claude Mythos, Hermes, OpenClaw and Grok bots for business use
+- **Voice:** ElevenLabs voices and voice agents
+- **Phone:** AI phone-calling agents that answer, qualify and book appointments
+- **CRM and leads:** custom CRM connected to your data, lead sourcing, enrichment and qualification, follow-up prepared by agents
+- **Automation:** n8n workflows and API integrations, plus custom MCP servers exposing CRM, calendar, catalog and billing to Claude or ChatGPT, with precise permissions
+- **Training:** AI training for professionals, by appointment, with confidentiality built in
 
 <br>
 
@@ -85,8 +93,14 @@ Listed as an **Activateur France Num**, the French government network for the di
 ![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-0d0d0d?style=flat-square&logo=googleads&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Ads-0d0d0d?style=flat-square&logo=meta&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0d0d0d?style=flat-square&logo=microsoft&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-0d0d0d?style=flat-square&logo=anthropic&logoColor=white)
+![Mythos](https://img.shields.io/badge/Claude_Mythos-0d0d0d?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d0d0d?style=flat-square&logo=openai&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-0d0d0d?style=flat-square&logo=x&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-0d0d0d?style=flat-square)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0d0d0d?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0d0d0d?style=flat-square&logo=elevenlabs&logoColor=white)
 
 <br>
 

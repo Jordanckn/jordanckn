@@ -56,8 +56,9 @@
   <text class="t h" x="740" y="136">Measure</text>
   <text class="t d" x="740" y="164">Search Console</text>
   <text class="t d" x="740" y="186">Analytics</text>
-  <text class="t d" x="740" y="208">Ad platforms</text>
-  <text class="t d" x="740" y="230">Reports</text>
+  <text class="t d" x="740" y="208">Microsoft Clarity</text>
+  <text class="t d" x="740" y="230">Ad platforms</text>
+  <text class="t d" x="740" y="252">Reports</text>
 
   <!-- flow arrows -->
   <line class="a" x1="182" y1="205" x2="218" y2="205" marker-end="url(#ar)"/>

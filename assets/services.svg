@@ -31,7 +31,7 @@
 
   <!-- row 3 -->
   <rect class="c" x="40"  y="282" width="205" height="90" rx="14"/>
-  <text class="t n" x="60" y="306">09</text><text class="t h" x="60" y="330">AI agents</text><text class="t d" x="60" y="352">n8n · MCP · workflows</text>
+  <text class="t n" x="60" y="306">09</text><text class="t h" x="60" y="330">AI agents</text><text class="t d" x="60" y="352">Bots · voice · phone</text>
   <rect class="c" x="265" y="282" width="205" height="90" rx="14"/>
   <text class="t n" x="285" y="306">10</text><text class="t h" x="285" y="330">CRM and leads</text><text class="t d" x="285" y="352">Custom CRM · qualification</text>
   <rect class="c" x="490" y="282" width="205" height="90" rx="14"/>
