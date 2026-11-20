@@ -67,7 +67,7 @@ Agents start from a goal, split the task, use company tools with limited rights,
 
 ## Team
 
-Six specialist teams, one project lead: **SEO** · **GEO** · **Advertising** (Google Ads, Meta Ads) · **Design & Web** · **AI & CRM** · **Consulting & Training**.
+Six specialist teams, one project lead: **SEO** · **GEO** · **Advertising** (Google Ads, Meta Ads, ChatGPT Ads) · **Design & Web** · **AI & CRM** · **Consulting & Training**.
 
 Listed as an **Activateur France Num**, the French government network for the digital transformation of small businesses.
 
