@@ -14,7 +14,7 @@
   <circle cx="296" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="296" y="103">2</text>
   <circle cx="480" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="480" y="103">3</text>
   <circle cx="664" cy="98" r="18" fill="#0d0d0d"/><text class="t k" x="664" y="103">4</text>
-  <circle cx="848" cy="98" r="18" fill="#10a37f"/><text class="t k" x="848" y="103">5</text>
+  <circle cx="848" cy="98" r="18" fill="#2563eb"/><text class="t k" x="848" y="103">5</text>
 
   <text class="t h" x="112" y="144">Frame</text><text class="t d" x="112" y="166">Goals and audit</text>
   <text class="t h" x="296" y="144">Design</text><text class="t d" x="296" y="166">Site and content</text>

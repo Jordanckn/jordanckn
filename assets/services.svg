@@ -3,7 +3,7 @@
     .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .h { font-size: 16px; font-weight: 600; fill: #0d0d0d; }
     .d { font-size: 13px; fill: #6e6e80; }
-    .n { font-size: 11px; fill: #10a37f; letter-spacing: 1px; }
+    .n { font-size: 11px; fill: #2563eb; letter-spacing: 1px; }
     .c { fill: #f7f7f8; stroke: #e5e5e5; }
   </style>
   <rect x="0.5" y="0.5" width="959" height="409" rx="20" fill="#ffffff" stroke="#e5e5e5"/>
