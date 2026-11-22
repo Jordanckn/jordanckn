@@ -2,7 +2,9 @@
 
 <img src="assets/banner.svg" alt="Jordan Chekroun, Founder and CEO of WebFitYou. Visible on Google. Recommended by AI." width="100%">
 
-[**webfityou.com**](https://webfityou.com) · [Blog](https://webfityou.com/blog)
+**Architecture and development in Angular and TypeScript · n8n automation · AI agents · API integrations**
+
+[LinkedIn](https://www.linkedin.com/in/chekroun-jordan-011aa1176/) · [contact@webfityou.com](mailto:contact@webfityou.com) · [webfityou.com](https://webfityou.com) · [Blog](https://webfityou.com/blog)
 
 </div>
 
@@ -10,15 +12,23 @@
 
 ## About
 
-Former lawyer, now building search visibility for businesses. I moved into SEO in 2021, then focused my research on how generative engines choose what to cite, years before GEO became a topic.
+I design and build the technical side of digital growth: Angular and TypeScript applications, n8n automation, AI agents and API integrations. As founder of WebFitYou, I have supported **30+ clients** across SEO, GEO, websites, paid media and AI automation.
 
 WebFitYou brings the website, the content that search engines and AI understand, and the ad campaigns into one strategy, run by one team with one point of contact.
 
 **In one line:** I run search visibility (SEO, GEO), paid media (Google Ads, Meta Ads, ChatGPT Ads), social media and websites, and the AI layer behind them: agents and bots on Claude, Mythos, Hermes, OpenClaw and Grok, ElevenLabs voices, phone-calling agents, CRM and lead generation.
 
+### Path
+
+1. **Lawyer by training:** rigor, structure, and a habit of reading the fine print.
+2. **SEO specialist:** search visibility, then research on how generative engines choose what to cite.
+3. **Founder and AI developer:** WebFitYou, with code, automation and agents in production.
+
 ```typescript
 export const jordan = {
   company: "WebFitYou",
+  role: "Founder, developer, automation and AI agents",
+  clientsSupported: "30+",
   offices: ["Paris", "Tel Aviv"],
   languages: ["fr", "he", "en", "typescript"],
   principle: "AI speeds up the work. Decisions stay human.",
@@ -159,6 +169,12 @@ AI platform for aesthetic medicine practitioners.
 - [Client case studies](https://webfityou.com/realisations)
 - [SEO, GEO and AI news for small businesses](https://webfityou.com/blog)
 - [GEO optimization](https://webfityou.com/geo-optimization) · [ChatGPT Ads](https://webfityou.com/chatgpt-ads) · [AI training](https://webfityou.com/formation-ia)
+
+<br>
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/chekroun-jordan-011aa1176/) · [contact@webfityou.com](mailto:contact@webfityou.com) · [Contact page](https://webfityou.com/contact)
 
 <br>
 
