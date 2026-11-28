@@ -10,6 +10,16 @@
 
 <br>
 
+## 🏙️ New open project: AGI-BOT Agency
+
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/city.png" alt="AGI-BOT Agency: an immersive headquarters for AI agents" width="100%"></a>
+
+**Walk into your AI company.** Answer three questions and get an immersive agency with an AI CEO, managers, agents, offices, meetings and chat. Built on [OpenClaw](https://docs.openclaw.ai), which is required.
+
+**[Discover the repository →](https://github.com/Jordanckn/agi-bot-agency)**
+
+<br>
+
 ## About
 
 I design and build the technical side of digital growth: Angular and TypeScript applications, n8n automation, AI agents and API integrations. As founder of WebFitYou, I have supported **30+ clients** across SEO, GEO, websites, paid media and AI automation.
@@ -155,6 +165,9 @@ Listed as an **Activateur France Num**, the French government network for the di
 <br>
 
 ## Projects
+
+**[AGI-BOT Agency](https://github.com/Jordanckn/agi-bot-agency)**
+Immersive, local dashboard that turns OpenClaw agents into an AI-run agency.
 
 **[WebFitYou](https://webfityou.com)**
 Digital agency. SEO, GEO, websites, paid media and AI automation, on one fixed-scope monthly subscription.
