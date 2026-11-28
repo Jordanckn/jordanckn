@@ -27,7 +27,7 @@ Answer three questions and your AI-run agency takes shape: an AI CEO, managers, 
 <table>
 <tr>
 <td align="center" width="33%"><b>3 questions</b><br><sub>to design your organisation</sub></td>
-<td align="center" width="33%"><b>9 languages</b><br><sub>for onboarding and tutorial</sub></td>
+<td align="center" width="33%"><b>9 languages</b><br><sub>for onboarding and tutorial</sub><br><img src="https://flagcdn.com/w40/fr.png" alt="Français" title="Français" width="18"> <img src="https://flagcdn.com/w40/gb.png" alt="English" title="English" width="18"> <img src="https://flagcdn.com/w40/cn.png" alt="中文" title="中文" width="18"> <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español" width="18"> <img src="https://flagcdn.com/w40/il.png" alt="עברית" title="עברית" width="18"> <img src="https://flagcdn.com/w40/sa.png" alt="العربية" title="العربية" width="18"> <img src="https://flagcdn.com/w40/ru.png" alt="Русский" title="Русский" width="18"> <img src="https://flagcdn.com/w40/de.png" alt="Deutsch" title="Deutsch" width="18"> <img src="https://flagcdn.com/w40/it.png" alt="Italiano" title="Italiano" width="18"></td>
 <td align="center" width="33%"><b>Runs locally</b><br><sub>on your own computer</sub></td>
 </tr>
 </table>
