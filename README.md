@@ -10,7 +10,7 @@
 
 <br>
 
-## 🏙️ New open project: AGI-BOT Agency
+## New open project: AGI-BOT Agency
 
 <a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/city.png" alt="AGI-BOT Agency: an immersive headquarters for AI agents" width="100%"></a>
 
