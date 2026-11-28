@@ -10,13 +10,37 @@
 
 <br>
 
-## New open project: AGI-BOT Agency
+<div align="center">
 
-<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/city.png" alt="AGI-BOT Agency: an immersive headquarters for AI agents" width="100%"></a>
+<sub><b>NEW OPEN PROJECT</b></sub>
 
-**Walk into your AI company.** Answer three questions and get an immersive agency with an AI CEO, managers, agents, offices, meetings and chat. Built on [OpenClaw](https://docs.openclaw.ai), which is required.
+<h1>AGI-BOT Agency</h1>
 
-**[Discover the repository →](https://github.com/Jordanckn/agi-bot-agency)**
+<h3>Don't manage a list of AI agents. Walk into your company.</h3>
+
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/city.png" alt="AGI-BOT Agency headquarters in an animated city" width="100%"></a>
+
+<img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/team.svg" alt="You, an AI CEO and department managers" width="92%">
+
+Answer three questions and your AI-run agency takes shape: an AI CEO, managers, agents,<br>offices, meetings and conversations. The organisation of large companies, within reach of small businesses.
+
+<table>
+<tr>
+<td align="center" width="33%"><b>3 questions</b><br><sub>to design your organisation</sub></td>
+<td align="center" width="33%"><b>9 languages</b><br><sub>for onboarding and tutorial</sub></td>
+<td align="center" width="33%"><b>Runs locally</b><br><sub>on your own computer</sub></td>
+</tr>
+</table>
+
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/office.png" alt="Top-view office" width="49%"></a>
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/night.png" alt="The agency by night" width="49%"></a>
+
+<br>
+
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://img.shields.io/badge/Discover_the_repository-5B63D6?style=for-the-badge&logo=github&logoColor=white" alt="Discover the repository"></a>
+<a href="https://docs.openclaw.ai"><img src="https://img.shields.io/badge/Requires-OpenClaw-991B1B?style=for-the-badge" alt="Requires OpenClaw"></a>
+
+</div>
 
 <br>
 
