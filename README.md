@@ -18,7 +18,7 @@
 
 <h3>Don't manage a list of AI agents. Walk into your company.</h3>
 
-<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/city.png" alt="AGI-BOT Agency headquarters in an animated city" width="100%"></a>
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/city-window.png" alt="AGI-BOT Agency headquarters in an animated city" width="100%"></a>
 
 <img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/team.svg" alt="You, an AI CEO and department managers" width="92%">
 
@@ -32,8 +32,8 @@ Answer three questions and your AI-run agency takes shape: an AI CEO, managers, 
 </tr>
 </table>
 
-<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/office.png" alt="Top-view office" width="49%"></a>
-<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/night.png" alt="The agency by night" width="49%"></a>
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/office-window.png" alt="Top-view office" width="49%"></a>
+<a href="https://github.com/Jordanckn/agi-bot-agency"><img src="https://raw.githubusercontent.com/Jordanckn/agi-bot-agency/main/docs/night-window.png" alt="The agency by night" width="49%"></a>
 
 <br>
 
